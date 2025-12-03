@@ -1,5 +1,6 @@
 # PicoCTF
 writeups for the ctfs i have completed in picoCTF
+
 **LOG HUNT(EASY)**
 
 1. flag was fragmented across the log files

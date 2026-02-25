@@ -202,3 +202,16 @@ you just had to go to different pages of the given site , inspecting their code,
 
 5.at the end , a readable flag was there.
 
+**REDACTION GONE WRONG(MEDIUM)**
+1. A pdf file was given.
+2. some paragraps were actually redacted , others just had black highlight
+3. copied the whole paragraph into mousepad and got the flag.
+
+**HIDEME(MEDIUM)**
+1. A png file was given.
+2. saw the metadata first, there was a warning that there was data after IEND.
+3. used hexeditor was, there was a readable text after IEND, secret/UT and secret/flag.png
+4. used binwalk, found 2 zip folders
+5. extracted them, extracted file was an directory
+6. it had an image that contained the flag.
+

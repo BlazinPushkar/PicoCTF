@@ -189,3 +189,10 @@ you just had to go to different pages of the given site , inspecting their code,
 3. got an jpg file, the image wasn't didn't have anything useful
 4. checked the meta data and got a base64 encoded attribution url.
 5. decoded it and got the flag.
+
+**GLORY OF THE GARDEN(EASY)**
+1.Got an jpg image of a a garden.
+2.Checked the metadata nothing unusual.
+3.saw the hint about hex editor on picoctf.
+4.opened the image in hex editor.
+5.at the end , a readable flag was there.

@@ -182,3 +182,10 @@ you just had to go to different pages of the given site , inspecting their code,
 3.checked the meta data , license looked base64 encoded
 
 4.decoded it and got the flag
+
+**CANYOUSEE(EASY)**
+1. A zip file was provided
+2. used 7zip to extract from it
+3. got an jpg file, the image wasn't didn't have anything useful
+4. checked the meta data and got a base64 encoded attribution url.
+5. decoded it and got the flag.

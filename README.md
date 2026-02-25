@@ -175,6 +175,9 @@ you just had to go to different pages of the given site , inspecting their code,
 
 **INFORMATION(EASY)**
 1.was given a cat jpg file
+
 2.checked the properties first, nothing
+
 3.checked the meta data , license looked base64 encoded
+
 4.decoded it and got the flag

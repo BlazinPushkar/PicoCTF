@@ -172,3 +172,9 @@ you just had to go to different pages of the given site , inspecting their code,
 2.so i encrypted the keyword "swiss" and used this to get the equation used to this affine cypher.
 
 3.once i got the equation, i decrypted the text and gussed what i did and got the flag
+
+**INFORMATION(EASY)**
+1.was given a cat jpg file
+2.checked the properties first, nothing
+3.checked the meta data , license looked base64 encoded
+4.decoded it and got the flag

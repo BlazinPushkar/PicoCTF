@@ -215,3 +215,9 @@ you just had to go to different pages of the given site , inspecting their code,
 5. extracted them, extracted file was an directory
 6. it had an image that contained the flag.
 
+**Mod 26 and 13(easy)**
+simple ROT13  decode and got the flag for both the challenges.
+
+**SUDO MAKE ME A SANDWICH(easy)**
+1.you have to connect with ssh and password, you were a limited user with lower privelages ,
+2.there was a file called flag.txt that needed root permission to open, ran a sudo -l to see which programs and files have sudo permissions , saw /bin/emacs had root privelages and can run without password, ran emacs to open that .txt flag and got the flag.
